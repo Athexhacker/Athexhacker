@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm ATHEX</h1>
 <h3 align="center">I'm Cyber security reseacher and developer from Pakistan</h3>
 
+<img align="right" alt="Hacking" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyM2poc2Z2c3Z2a3FhcmF5dTN5OWZyeTE5cmxobjNhejRzcnh6ZmxqNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lp3GUtG2waC88/source.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=athexhacker&label=Profile%20views&color=0e75b6&style=flat" alt="athexhacker" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=athexhacker" alt="athexhacker" /></a> </p>
