@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ATHEX</h1>
 <h3 align="center">I'm Cyber security reseacher and developer from Pakistan</h3>
 
-<img align="right" alt="Hacking" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyM2poc2Z2c3Z2a3FhcmF5dTN5OWZyeTE5cmxobjNhejRzcnh6ZmxqNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lp3GUtG2waC88/source.gif">
+<img align="right" alt="Hacking" width="800" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyM2poc2Z2c3Z2a3FhcmF5dTN5OWZyeTE5cmxobjNhejRzcnh6ZmxqNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lp3GUtG2waC88/source.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=athexhacker&label=Profile%20views&color=0e75b6&style=flat" alt="athexhacker" /> </p>
 
@@ -9,19 +9,19 @@
 
 - 🔭 I’m currently working on **Creating malware's**
 
-- 🌱 I’m currently learning **Rust, python, shell**
+- 🌱 I’m currently learning **FSc Computer science student**
 
 - 👯 I’m looking to collaborate on **Cyber security expert's**
 
 - 💬 Ask me about **Ethical hacking**
 
-- 📫 How to reach me **athexhacker@gmail.com**
+- 📫 How to reach me **whatsapp +92 3475549695**
 
 - ⚡ Fun fact **I think I'm comedian 😄**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/athex x inzii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="athex x inzii" height="30" width="40" /></a>
+<a href="https://fb.com/athexxinzii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="athex x inzii" height="30" width="40" /></a>
 <a href="https://instagram.com/itx_athex86" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itx_athex86" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/inzixploit444" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="inzixploit444" height="30" width="40" /></a>
 </p>
