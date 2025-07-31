@@ -1,8 +1,8 @@
-![logo](https://github.com/Athexhacker/Athexhacker/blob/main/download%20(2)_1.jpg)
+![logo]()
 <h1 align="center">Hi 👋, I'm ATHEX</h1>
 <h3 align="center">I'm Cyber security reseacher and developer from Pakistan</h3>
 
-<img align="right" alt="Hacking" width="800" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyM2poc2Z2c3Z2a3FhcmF5dTN5OWZyeTE5cmxobjNhejRzcnh6ZmxqNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lp3GUtG2waC88/source.gif">
+<img align="right" alt="Hacking" width="800" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb1s4v46nWuqH6tIEWqVFz4oRSsIJpZjmjig&s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=athexhacker&label=Profile%20views&color=0e75b6&style=flat" alt="athexhacker" /> </p>
 
@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **whatsapp +92 3475549695**
 
-- ⚡ Fun fact **I think I'm comedian 😄**
+- ⚡ Fun fact **I think I'm funny 😄**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
