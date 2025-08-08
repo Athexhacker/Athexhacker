@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=athexhacker" alt="athexhacker" /></a> </p>
 
-- 🔭 I’m currently working on **Creating malware's**
+- 🔭 I’m currently working on **malware's**
 
-- 🌱 I’m currently learning **FSc Computer science student**
+- 🌱 I’m currently **FSc Computer science student**
 
 - 👯 I’m looking to collaborate on **Cyber security expert's**
 
