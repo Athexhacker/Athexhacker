@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Ethical hacking**
 
-- 📫 How to reach me **whatsapp +92 3475549695**
+- 📫 How to reach me **whatsapp +92 3490916663**
 
 - ⚡ Fun fact **I think I'm funny 😄**
 
