@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Ethical hacking**
 
-- 📫 How to reach me **whatsapp +92 3490916663**
+- 📫 How to reach me **instagram   itx_athex86**
 
 - ⚡ Fun fact **I think I'm funny 😄**
 
