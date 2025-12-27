@@ -1,6 +1,6 @@
 ![logo](https://github.com/Athexhacker/Athexhacker/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm ATHEX</h1>
-<h3 align="center">I'm Cyber security reseacher and developer</h3>
+<h3 align="center">I'm Cyber security reseacher, Developer & Dark Web Reasercher from Paksitan</h3>
 
 <img align="right" alt="Hacking" width="800" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb1s4v46nWuqH6tIEWqVFz4oRSsIJpZjmjig&s">
 
@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=athexhacker" alt="athexhacker" /></a> </p>
 
-- 🔭 I’m currently working on **malware's**
+- 🔭 I’m currently working on **Malware's Development**
 
 - 🌱 I’m currently **FSc Computer science student**
 
-- 👯 I’m looking to collaborate on **Cyber security expert's**
+- 👯 I’m looking to collaborate on **BLACK HAT HACKERS**
 
-- 💬 Ask me about **Ethical hacking**
+- 💬 Ask me about **HACKING , DEVELOPMENT & DARK WEB Much More**
 
 - 📫 How to reach me **instagram   itx_athex86**
 
@@ -22,9 +22,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/@athexxinzii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="athex x inzii" height="30" width="40" /></a>
+<a href="https://fb.com/@athexxinzii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="athexXinzii" height="30" width="40" /></a>
 <a href="https://instagram.com/@itx_athex86" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itx_athex86" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@inzixploit444" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="inzixploit444" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@inzixploit444" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="inziXploit444" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
