@@ -44,6 +44,26 @@ Contact   :  Instagram @itx_athex86
 
 ---
 
+*they told me to get a life. so i took theirs. 💀*
+
+i don't sleep. i don't stop. i don't ask permission.
+while you were learning syntax, i was owning systems.
+while you were sleeping, i was in networks you'll never find.
+
+malware is my art. the dark web is my gallery.
+every payload i write is a love letter to chaos.
+every shell i pop is proof that no system is safe.
+
+born in pakistan. raised by the terminal.
+educated by the streets of the internet, not the classroom.
+ALLAH gave me the mind. i chose what to do with it. 🤲
+
+i don't have enemies. just future victims who don't know it yet.
+i don't have goals. just targets.
+i don't have a plan. just instincts and root access.
+
+if you're reading this, you already lost. 💀
+
 ## ⚡ What I Do
 
 <div align="center">
