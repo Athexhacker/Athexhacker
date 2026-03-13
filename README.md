@@ -79,9 +79,8 @@ Contact   :  Instagram @itx_athex86
   <br/>
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
   <img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
+  <img src="https://img.shields.io/badgeVIB-2C2D72?style=for-the-badge&logo=vib&logoColor=white" />
 </p>
 
 ---
@@ -172,7 +171,7 @@ Contact   :  Instagram @itx_athex86
 
 <!-- FIX: lowercase username is required by the trophy API -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=athexblackhat&theme=darkhub&no-frame=false&margin-w=10&margin-h=10&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Athexblackhat&theme=darkhub&no-frame=false&margin-w=10&margin-h=10&column=4" />
 </p>
 
 ---
