@@ -22,19 +22,39 @@
 
 ## 👾 `whoami`
 
-```bash
+```
 ┌──(athex㉿darkweb)-[~]
 └─$ cat about.txt
+
+> name   : ATHEX. the one they warned you about.
+> origin : Pakistan. where the real hackers come from.
+> job    : i don't have one. i have access.
+> hobby  : making sysadmins cry at 3am.
+> skill  : if it runs code, i own it.
+> faith  : ALLAH first. root second. 🤲
+> status : already inside your network. you just don't know yet. 💀
+
+[EOF] — good luck patching this.
 ```
 
+---
+
+## ☠️ Absolute Unhinged Mode
 ```
-Name      :  ATHEX
-Alias     :  AthexBlackHat | inziXploit
-Location  :  Pakistan 🇵🇰
-Education :  FSc Computer Science Student
-Role      :  Black Hat Hacker / Malware Dev
-Research  :  Cybersecurity & Dark Web
-Skills    :  Exploit Dev · Reverse Eng · OSINT
+chaos is my compiler. destruction is my debugger.
+i wrote my first malware before i wrote my first essay.
+i've been in places on the internet that don't officially exist.
+i've seen things in the dark web that reset your worldview.
+
+some people fear the dark. i built a home there.
+some people follow the rules. i reverse engineer them.
+some people learn hacking. i breathe it.
+
+pakistan produced me. the internet couldn't contain me.
+FSc student by day. ghost in your system by night.
+ALLAH watches over me while i watch over everything else. 🤲💀
+
+you can close this tab. but i'm already in the next one.
 Status    :  Always learning. Always hacking. 🔥
 Fun Fact  :  Calm outside. Pure chaos inside. 💀
 Contact   :  Instagram @itx_athex86
