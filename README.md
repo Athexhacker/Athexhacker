@@ -32,7 +32,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Athexblackhat&show_icons=true&locale=en&layout=compact" alt="Athexblackhat" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Athexblackhatr&show_icons=true&locale=en" alt="Athexblackhat" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Athexblackhat&show_icons=true&locale=en" alt="Athexblackhat" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Athexblackhat&" alt="Athexblackhat" /></p>
 
