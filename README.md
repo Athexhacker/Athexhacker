@@ -1,9 +1,9 @@
-<!-- HEADER BANNER - capsule-render is reliable -->
+<!-- HEADER BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=ATHEX&fontSize=80&fontColor=00ffcc&animation=fadeIn&fontAlignY=36&desc=Cybersecurity+Researcher+%7C+Malware+Developer+%7C+Dark+Web+Analyst&descAlignY=60&descColor=a78bfa&descSize=16" width="100%"/>
 </p>
 
-<!-- TYPING ANIMATION - demolab is the working host since git.io/typing-svg deprecated -->
+<!-- TYPING ANIMATION -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00FFCC&center=true&vCenter=true&width=700&lines=Black+Hat+Hacker+%F0%9F%92%80;Malware+Developer+%F0%9F%A6%A0;Cybersecurity+Researcher+%F0%9F%94%90;Dark+Web+Analyst+%F0%9F%95%B8%EF%B8%8F;Exploit+Developer+%F0%9F%92%89;Penetration+Tester+%F0%9F%9B%A1%EF%B8%8F;OSINT+Specialist+%F0%9F%94%8D" alt="Typing SVG" />
 </p>
@@ -149,13 +149,11 @@ Contact   :  Instagram @itx_athex86
 
 ## 📊 GitHub Stats
 
-<!-- Stats - using vercel hosted which is most stable -->
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Athexblackhat&show_icons=true&theme=tokyonight&border_color=00ffcc&bg_color=0d1117&title_color=00ffcc&icon_color=a78bfa&text_color=ffffff&border_radius=10&include_all_commits=true&count_private=true" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Athexblackhat&layout=compact&langs_count=8&theme=tokyonight&border_color=00ffcc&bg_color=0d1117&title_color=00ffcc&text_color=ffffff&border_radius=10" />
 </p>
 
-<!-- Streak - demolab.com is the new working host -->
 <p align="center">
   <img width="70%" src="https://streak-stats.demolab.com/?user=Athexblackhat&theme=tokyonight&border=00ffcc&background=0d1117&stroke=00ffcc&ring=a78bfa&fire=ff0044&currStreakLabel=00ffcc&border_radius=10" />
 </p>
@@ -172,9 +170,24 @@ Contact   :  Instagram @itx_athex86
 
 ## 🏆 GitHub Trophies
 
-<!-- Trophy - must use vercel.app URL, no custom rank filter, darkhub theme -->
+<!-- FIX: lowercase username is required by the trophy API -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Athexblackhat&theme=darkhub&no-frame=false&margin-w=10&margin-h=10&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=athexblackhat&theme=darkhub&no-frame=false&margin-w=10&margin-h=10&column=4" />
+</p>
+
+---
+
+## 💻 Hacking Vibes
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="32%" alt="hacking terminal" />
+  <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="32%" alt="code rain" />
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="32%" alt="matrix" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="49%" alt="hacker at work" />
+  <img src="https://media.giphy.com/media/HoffxyN8ghVuw/giphy.gif" width="49%" alt="dark terminal" />
 </p>
 
 ---
@@ -206,51 +219,6 @@ me.say_hi()
 
 ---
 
-## 🐍 Contribution Snake
-
-<!-- Snake only works after you set up the GitHub Action below -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Athexblackhat/Athexblackhat/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation - run the GitHub Action to generate this" />
-</p>
-
-<details>
-<summary>⚙️ One-time snake setup — click to expand</summary>
-<br>
-
-Create file: `.github/workflows/snake.yml` in your `Athexblackhat/Athexblackhat` repo:
-
-```yaml
-name: Generate Snake Animation
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches: [main]
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Then go to **Actions tab → Run workflow manually**. Takes 30 seconds. Snake appears! 🐍
-
-</details>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -262,9 +230,9 @@ Then go to **Actions tab → Run workflow manually**. Takes 30 seconds. Snake ap
 
 ---
 
-<!-- FOOTER BANNER -->
+<!-- FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=fadeIn" width="100%"/>
 </p>
 
 <p align="center">
