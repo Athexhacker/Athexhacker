@@ -171,7 +171,7 @@ Contact   :  Instagram @itx_athex86
 
 <!-- FIX: lowercase username is required by the trophy API -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Athexblackhat&theme=darkhub&no-frame=false&margin-w=10&margin-h=10&column=4" />
+  <img src="https://github-profile-trophy.zeabur.app/?username=athexblackhat&theme=darkhub&no-frame=false&margin-w=10&margin-h=10&column=4" />
 </p>
 
 ---
